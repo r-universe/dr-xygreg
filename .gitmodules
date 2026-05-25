@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "scMetaTraj"]
 	path = scMetaTraj
-	url = https://github.com/cran/scMetaTraj
+	url = https://github.com/dr-xygreg/scmetatraj
